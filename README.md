@@ -14,10 +14,10 @@ The following is a repository of all the websites that people have created durin
 
 ## Linwood
 
-* [Guy's Website](https://coderdojo-renfrewshire.github.io/webpages/abagail/index.html)
-* [Gabriel's Website](https://coderdojo-renfrewshire.github.io/webpages/abagail/index.html)
-* [Ronin's Website](https://coderdojo-renfrewshire.github.io/webpages/abagail/index.html)
-* [Lewis's Website](https://coderdojo-renfrewshire.github.io/webpages/abagail/index.html)
+* [Guy's Website](https://coderdojo-renfrewshire.github.io/webpages/guy/index.html)
+* [Gabriel's Website](https://coderdojo-renfrewshire.github.io/webpages/gabriel/index.html)
+* [Douglas's Website](https://coderdojo-renfrewshire.github.io/webpages/douglas/index.html)
+* [Lewis's Website](https://coderdojo-renfrewshire.github.io/webpages/lewis/index.html)
 
 ## Renfrew
 
