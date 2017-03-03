@@ -7,7 +7,7 @@ The following is a repository of all the websites that people have created durin
 
 ## Paisley
 
-* [Sophie's Image Gallery](https://coderdojo-renfrewshire.github.io/webpages/sophie/index.html)
+* [Sophie's Image Gallery](https://coderdojo-renfrewshire.github.io/webpages/sophie)
 * [Harris's Personal Blog](https://coderdojo-renfrewshire.github.io/webpages/harris/index.html) 
 * [James's Game Walkthough](https://coderdojo-renfrewshire.github.io/webpages/james/index.html)
 * [Abagail's  Fandom Wiki](https://coderdojo-renfrewshire.github.io/webpages/abagail/index.html) 
