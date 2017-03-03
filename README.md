@@ -8,16 +8,16 @@ The following is a repository of all the websites that people have created durin
 ## Paisley
 
 * [Sophie's Image Gallery](https://coderdojo-renfrewshire.github.io/webpages/sophie)
-* [Harris's Personal Blog](https://coderdojo-renfrewshire.github.io/webpages/harris/index.html) 
-* [James's Game Walkthough](https://coderdojo-renfrewshire.github.io/webpages/james/index.html)
-* [Abagail's  Fandom Wiki](https://coderdojo-renfrewshire.github.io/webpages/abagail/index.html) 
+* [Harris's Personal Blog](https://coderdojo-renfrewshire.github.io/webpages/harris) 
+* [James's Game Walkthough](https://coderdojo-renfrewshire.github.io/webpages/james)
+* [Abagail's  Fandom Wiki](https://coderdojo-renfrewshire.github.io/webpages/abagail) 
 
 ## Linwood
 
-* [Guy's Website](https://coderdojo-renfrewshire.github.io/webpages/guy/index.html)
-* [Gabriel's Website](https://coderdojo-renfrewshire.github.io/webpages/gabriel/index.html)
-* [Douglas's Website](https://coderdojo-renfrewshire.github.io/webpages/douglas/index.html)
-* [Lewis's Website](https://coderdojo-renfrewshire.github.io/webpages/lewis/index.html)
+* [Guy's Website](https://coderdojo-renfrewshire.github.io/webpages/guy)
+* [Gabriel's Website](https://coderdojo-renfrewshire.github.io/webpages/gabriel)
+* [Douglas's Website](https://coderdojo-renfrewshire.github.io/webpages/douglas)
+* [Lewis's Website](https://coderdojo-renfrewshire.github.io/webpages/lewis)
 
 ## Renfrew
 
