@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  font-family: fantasy;
+
+  margin-left: auto;
+  margin-right: auto;
+  width:800px;
+
+}
+
+#content{
+  padding-top:70px;
+  background:  #d4f3ee ;
+
+}
+#software{
+  font-size:150%;
+}
+
+#Eh{
+  text-decoration-line: underline;
+  font-size:150%;
+  margin-top: 60px;
+}
+
+#yey{
+  font-size: 150%;
+  margin-top: 60px;
+}
+#yo{
+  text-decoration-line: underline;
+}
+
+#o{
+  margin-top: 60px;
+
+
+
+
+}
