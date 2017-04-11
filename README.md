@@ -11,6 +11,8 @@ The following is a repository of all the websites that people have created durin
 * [Harris's Personal Blog](https://coderdojo-renfrewshire.github.io/webpages/harris) 
 * [James's Game Walkthough](https://coderdojo-renfrewshire.github.io/webpages/james)
 * [Abagail's  Fandom Wiki](https://coderdojo-renfrewshire.github.io/webpages/abagail) 
+* [Emma's  First Webpage](https://coderdojo-renfrewshire.github.io/webpages/emma) 
+* [Dela's  First Webpage](https://coderdojo-renfrewshire.github.io/webpages/dela) 
 
 ## Linwood
 
