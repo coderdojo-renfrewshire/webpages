@@ -29,5 +29,7 @@ The following is a repository of all the websites that people have created durin
 * [Callie's Website](https://coderdojo-renfrewshire.github.io/webpages/renfrew/callie)
 * [Ewans's Website](https://coderdojo-renfrewshire.github.io/webpages/renfrew/ewan)
 * [Molly's Website](https://coderdojo-renfrewshire.github.io/webpages/renfrew/molly)
+* [Munjinder's Website](https://coderdojo-renfrewshire.github.io/webpages/renfrew/munjinder)
+* [Pavendeep's Website](https://coderdojo-renfrewshire.github.io/webpages/renfrew/pavendeep)
 
 
