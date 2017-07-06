@@ -20,6 +20,8 @@ The following is a repository of all the websites that people have created durin
 * [Gabriel's Website](https://coderdojo-renfrewshire.github.io/webpages/linwood/gabriel)
 * [Douglas's Website](https://coderdojo-renfrewshire.github.io/webpages/linwood/douglas)
 * [Lewis's Website](https://coderdojo-renfrewshire.github.io/webpages/linwood/lewis)
+* [Emily's Website](https://coderdojo-renfrewshire.github.io/webpages/linwood/emily)
+* [Brodie's Website](https://coderdojo-renfrewshire.github.io/webpages/linwood/brodie)
 
 ## Renfrew
 
